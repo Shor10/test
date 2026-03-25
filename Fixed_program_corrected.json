@@ -1,0 +1,1298 @@
+{
+  "1": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Bird dogs\n200m Row\n10 Empty bar squats 20/15 kg\nBuild to ~60% of working weight across final 2 warm-up sets.",
+      "notes": "Strict lower back protocol every session. Give yourself 2 barbell build-up sets before the benchmark — CNS needs it for a true 3RM."
+    },
+    {
+      "title": "12:00-17:00 Skill / Accessory",
+      "description": "Wall Ball Progression Phase 1:\n4 x 10 quality reps 9/6 kg.\nRest 60 sec between sets.\nFocus: full hip extension, consistent target height, controlled catch.",
+      "notes": "Phase 1 wall ball goal is movement quality, not fatigue. Don't rush reps."
+    },
+    {
+      "title": "17:00-40:00 Strength Block",
+      "description": "Benchmark: Heavy 3RM Back Squat\nBuild to heavy 3RM (Ref 1RM: 130 kg).\nSuggested build: 60 kg x5 / 85 kg x3 / 100 kg x2 / 110 kg x1 / then 3RM attempts.\nReduce posterior chain accessory this session due to heavy squat load.",
+      "notes": "This is a benchmark — treat it as a true max effort. Record the weight. Do not grind more than 2 attempts at top weight."
+    },
+    {
+      "title": "40:00-50:00 MetCon",
+      "description": "For Time (<8 min):\n21-15-9\nThrusters 43/30 kg\nBar-facing burpees\nTarget: sub-6 min for strong RX athletes.",
+      "notes": "Phosphagen/glycolytic focus. RPE 9. Legs are fatigued from squats — scale thruster weight if needed to hit the time stimulus."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "5 min light assault bike or walk.\n3 min seated straddle stretch.\n2 min supine hip flexor stretch each side.",
+      "notes": "Flush legs actively. Don't just sit down — keep blood moving."
+    }
+  ],
+  "2": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Dead bugs\n30 sec Side plank per side\n200m easy Jog or Row\nIncrease pace each round.",
+      "notes": "Monday = aerobic engine day. No heavy barbell. Goal is oxidative system development. Keep HR in Z2 (conversational) during warm-up."
+    },
+    {
+      "title": "10:00-17:00 Skill / Accessory",
+      "description": "Wall Ball Progression Phase 1:\n4 x 10 quality reps 9/6 kg.\nRest 60 sec.\nFocus: breathing rhythm — exhale on the throw, inhale on the catch.",
+      "notes": "Same cue as Sunday but emphasize breathing today. This is skill repetition, not conditioning."
+    },
+    {
+      "title": "17:00-37:00 Strength Block",
+      "description": "RDL (Phase 1 — no conventional DL from floor):\n4x8 @ 65% of DL 1RM = ~97.5 kg / 65 kg.\nRest 2 min between sets.\nAccessory: 3x10 Nordic Curls — slow eccentric (3-4 sec down), assisted return.",
+      "notes": "Hinge perfectly. No rounding. This is posterior chain volume work, not a max effort. Nordic curls are the most effective hamstring accessory — take them seriously."
+    },
+    {
+      "title": "37:00-52:00 MetCon",
+      "description": "Aerobic Engine — 3 Rounds for Time:\n500m Row\n400m Run\n30 sec rest between rounds\nTarget: consistent splits across all 3 rounds. Row ~2:00/500m, run paced.",
+      "notes": "RPE 7. Oxidative focus. This replaces Fran here — Fran is a sprint MetCon that belongs on Thursday, not the day after a max squat. Do NOT go all-out. The goal is aerobic volume, not glycolytic debt."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min stretching.\nFocus: hamstrings, lats, hip flexors.\nDeep squat hold 2 min.",
+      "notes": ""
+    }
+  ],
+  "3": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Glute bridges\n10 Hip hinge drills (dowel on back)\n10 PVC snatches with pause at power position",
+      "notes": "Wednesday = Oly + gymnastics + skill. Hip and shoulder prep are the priority. Glute activation protects the lower back under snatch/clean loads."
+    },
+    {
+      "title": "10:00-22:00 Skill / Accessory",
+      "description": "DU Skill + Benchmark:\nPhase 1 DU Protocol: 4 x 45 sec on / 30 sec rest — log total reps each set.\nThen: Benchmark — Max unbroken DUs (1 attempt after rest).\nDU Skill Cues: Stay on toes, wrists drive the rope (not arms), keep rope arc tight, consistent rhythm not speed.",
+      "notes": "Log total reps for each interval set AND the benchmark number. Aim to beat 30 unbroken. The skill cues are the key — most athletes at 30 unbroken are breaking due to wrist tension or arm swing, not fitness."
+    },
+    {
+      "title": "22:00-42:00 Strength Block",
+      "description": "Benchmark: 1RM Clean & Jerk\nBuild to 1RM in ~18 mins (Ref: 82.5 kg).\nSuggested build: 50 kg x3 / 60 kg x2 / 70 kg x1 / 77.5 kg x1 / 82.5 kg x1 / attempt new 1RM.\nAccessory: 3x10 Weighted Pull-ups — use a load that allows strict reps.",
+      "notes": "Technique over load if back feels tight. This is a benchmark — record the exact weight. Jerk split position must be solid before increasing load."
+    },
+    {
+      "title": "42:00-52:00 MetCon",
+      "description": "EMOM 10:\nMin 1: 15 Kettlebell Swings 24/16 kg\nMin 2: 12 Toes to Bar\nTarget: finish each minute with 15+ sec rest.",
+      "notes": "Moderate intensity RPE 7-8. This follows heavy Oly work — keep it controlled. If the C&J session ran long, drop to 10 KB swings and 8 TTB."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min light row or easy bike.\nFoam roll mid-back (thoracic, not lumbar).",
+      "notes": "Avoid extreme lumbar extension in foam rolling."
+    }
+  ],
+  "4": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Dead bugs\n200m easy Run\n10 empty bar thrusters 20/15 kg — focus on bottom position and lockout.",
+      "notes": "Thursday benchmark day. The thruster warm-up here is deliberate — prime the movement pattern before Fran. Back flat on bugs."
+    },
+    {
+      "title": "10:00-15:00 Skill / Accessory",
+      "description": "DU Progression Phase 1:\n4 x 45 sec on / 30 sec rest.\nSkill focus: double-bounce rhythm. Count how many times you stop per set — aim to reduce stops week over week.",
+      "notes": "Relax shoulders, spin wrists. Today's DU work is before Fran so keep intensity moderate — don't blow out your legs."
+    },
+    {
+      "title": "15:00-27:00 Strength Block",
+      "description": "Strict Press:\n4x8 @ 65% 1RM = ~42/28 kg.\nAccessory: 3x10 DB Rows 22.5/15 kg — chest supported or bent over, strict.",
+      "notes": "No leg drive. Strict press only. Core braced. Thursday press work is intentionally lighter — shoulders will be taxed in Fran pull-ups."
+    },
+    {
+      "title": "27:00-47:00 MetCon",
+      "description": "Benchmark: Fran\n21-15-9\nThrusters 43/30 kg\nPull-ups\nAll out. Record your time.",
+      "notes": "RPE 10. This is the benchmark — treat it as a race. Strategy: go unbroken on thrusters through 21 if possible. Break pull-ups in sets of 7-5-5 or 10-11. Do NOT pace this — Fran is meant to be painful and fast."
+    },
+    {
+      "title": "47:00-60:00 Cooldown",
+      "description": "5 min walk.\n5 min stretching: lats, hip flexors, quads.\n3 min diaphragmatic breathing — lie flat, slow exhales.",
+      "notes": "After Fran, HR will be very high. Walk it down before stretching."
+    }
+  ],
+  "5": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Bird dogs\n30 sec Side plank per side\n10 goblet squats 16/12 kg — pause 2 sec in hole.",
+      "notes": "Week 2 Sunday. Core stability before squats."
+    },
+    {
+      "title": "10:00-17:00 Skill / Accessory",
+      "description": "Wall Ball Progression Phase 1:\n4 x 10 quality reps 9/6 kg.\nRest 60 sec.\nFocus: consistent depth — hip crease below knee every rep.",
+      "notes": "Week 2 — same volume as Week 1 but dial in the depth cue. Every rep must look the same."
+    },
+    {
+      "title": "17:00-38:00 Strength Block",
+      "description": "Back Squat:\n4x8 @ 65% 1RM = ~84.5/57 kg.\nRest 2 min.\nAccessory: 3x12 GHD Hip Extension — neutral spine, squeeze glutes at top.",
+      "notes": "Control the eccentric — 3 sec down, drive up. Phase 1 hypertrophy block. Reduce posterior chain accessory volume if back is fatigued."
+    },
+    {
+      "title": "38:00-46:00 MetCon",
+      "description": "For Time:\n21-15-9\nCalorie Ski Erg\nBurpees over erg\nTarget: sub-8 min.",
+      "notes": "Glycolytic. RPE 8-9. Hard sprint after squats."
+    },
+    {
+      "title": "46:00-57:00 Cooldown",
+      "description": "11 min active recovery: easy walk or slow bike.\nHip flexor stretch 2 min per side.",
+      "notes": "Decrease heart rate gradually before leaving."
+    }
+  ],
+  "6": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Glute bridges\n200m easy Row.",
+      "notes": "Monday aerobic day. Activate glutes fully before trap bar work."
+    },
+    {
+      "title": "10:00-17:00 Skill / Accessory",
+      "description": "Wall Ball Progression Phase 1:\n4 x 10 quality reps 9/6 kg.\nRest 60 sec.\nFocus: keep elbows high through the catch — don't let them drop below shoulder.",
+      "notes": "Week 2 Monday. Same volume, new cue: elbows high on the catch."
+    },
+    {
+      "title": "17:00-38:00 Strength Block",
+      "description": "Trap Bar Deadlift (Phase 1 — no conventional DL):\n4x8 @ 65% 1RM equivalent (~97.5/65 kg).\nRest 2 min.\nAccessory: 3x12 Bulgarian Split Squats — bodyweight or light DBs, focus on balance.",
+      "notes": "Maintain neutral spine throughout. Trap bar allows more upright torso — use it. No shoulder-intensive accessory today — MetCon has pull-ups."
+    },
+    {
+      "title": "38:00-53:00 MetCon",
+      "description": "Aerobic Engine — 4 Rounds for Time:\n500m Row\n15 Ring Rows (or Banded Pull-ups at moderate resistance)\nRest 30 sec between rounds.\nTarget: consistent row splits, smooth ring rows.",
+      "notes": "RPE 7-8. Original session had HSPU here — replaced with ring rows to protect shoulder fatigue accumulation. HSPU after Wednesday Oly lifting and Thursday Fran pull-ups is too much shoulder load in a 4-day block. Ring rows preserve the pulling pattern safely."
+    },
+    {
+      "title": "53:00-60:00 Cooldown",
+      "description": "7 min stretching.\nChild's pose 2 min for back relief.\nLat stretch on rig.",
+      "notes": ""
+    }
+  ],
+  "7": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Dead bugs\n10 Hip hinge drills\n10 PVC pass-throughs\n10 PVC overhead squats.",
+      "notes": "Wednesday snatch day. Shoulder and hip mobility are critical. PVC OHS reveals any overhead restrictions before loading."
+    },
+    {
+      "title": "10:00-20:00 Skill / Accessory",
+      "description": "DU Progression Phase 1:\n4 x 45 sec on / 30 sec rest. Log total reps.\nSkill focus: single-leg bounce drill — 10 singles on right foot / 10 on left / 10 double bounce. Teaches weight distribution and timing.\nRest 60 sec after skill drill before intervals.",
+      "notes": "Week 2 DU focus: single-leg drill builds proprioception that carries over to consistency. Stay on toes, rigid core."
+    },
+    {
+      "title": "20:00-40:00 Strength Block",
+      "description": "Snatch:\n5x3 @ 70% 1RM = ~52.5/35 kg.\nRest 90 sec between sets.\nAccessory: 3x10 Strict Toes to Bar — full hang, control the lower.",
+      "notes": "Focus on speed under the bar and a strong catch in the hole. No pressing out. If you miss twice at a weight, drop 5 kg and continue."
+    },
+    {
+      "title": "40:00-52:00 MetCon",
+      "description": "AMRAP 12:\n10 Power Snatches 43/30 kg\n30 Double Unders\nTarget: 4-5+ rounds.",
+      "notes": "Moderate pace. RPE 8. The DUs here are a natural skill-in-fatigue test. Note if your DU technique breaks down — this is data."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min band stretching.\nBand shoulder distraction 2 min per side.\nPigeon pose 90 sec per side.",
+      "notes": ""
+    }
+  ],
+  "8": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n30 sec Side plank per side\n200m Run at easy pace.",
+      "notes": "Thursday long MetCon day. Core warm-up before running volume."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "DU Progression Phase 1:\n4 x 45 sec on / 30 sec rest. Log total reps.\nSkill focus: 'rhythm lock' — find a cadence and hold it. Count 1-2-3-4 silently to stay locked in.",
+      "notes": "Breathe steadily. Week 2 cue: rhythm over speed."
+    },
+    {
+      "title": "18:00-35:00 Strength Block",
+      "description": "Push Press:\n4x8 @ 70% 1RM = ~45.5/30 kg.\nRest 90 sec.\nAccessory: 3x12 DB Bent-over Rows 22.5/15 kg — NOT bench press. Horizontal pull balances the pressing.",
+      "notes": "Solid dip and drive. Changed accessory from DB Bench Press to DB Rows — bench pressing on Thursday after Wednesday snatch and Monday row MetCon accumulates too much shoulder load. Rows balance it and are safer here."
+    },
+    {
+      "title": "35:00-52:00 MetCon",
+      "description": "5 Rounds for Time:\n400m Run\n20 Kettlebell Swings 24/16 kg\n15 Pull-ups\nTarget: sub-22 min.",
+      "notes": "Mixed modal long. RPE 8. This is the week's big engine session. Pace the first round conservatively — this gets hard fast."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min easy spin on bike or walk.\nShoulder rolls and forearm stretch.",
+      "notes": ""
+    }
+  ],
+  "9": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Bird dogs\n10 Glute bridges\n10 air squats — pause 2 sec at bottom\n10 empty bar front squats 20/15 kg.",
+      "notes": "Week 3 Sunday. Front squat warm-up included — elbows up drill."
+    },
+    {
+      "title": "10:00-17:00 Skill / Accessory",
+      "description": "Wall Ball Progression Phase 1:\n3 x 15 unbroken 9/6 kg.\nRest 90 sec.\nFocus: don't drop chest — thoracic extension drives the ball. Aim to go unbroken on all 3 sets.",
+      "notes": "Week 3: shift to 3x15 unbroken. Total volume drops slightly but the unbroken intent is the key stimulus — it builds the mental and physiological pattern needed for Phase 2's 3x20. If you break before 15, note the rep number and beat it next set."
+    },
+    {
+      "title": "17:00-38:00 Strength Block",
+      "description": "Front Squat:\n4x6 @ 72% 1RM = ~79/53 kg.\nRest 2 min.\nAccessory: 3x12 GHD Hip Extension — controlled, squeeze at top.",
+      "notes": "Keep elbows high — a dropped elbow is a rounded back. Brace core before every rep. Reduce posterior accessory volume if this follows a heavy day."
+    },
+    {
+      "title": "38:00-46:00 MetCon",
+      "description": "For Time:\n30-20-10\nAssault Bike Cals\nAlternating DB Snatches 22.5/15 kg\nTarget: sub-10 min.",
+      "notes": "Glycolytic focus. Go hard on the bike. RPE 8-9."
+    },
+    {
+      "title": "46:00-58:00 Cooldown",
+      "description": "12 min stretching.\nFocus: quads, hip flexors, thoracic rotation.",
+      "notes": ""
+    }
+  ],
+  "10": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Hip hinge drills\n200m easy Row.",
+      "notes": "Monday aerobic day. Protect the back — focus on hinge quality in warm-up."
+    },
+    {
+      "title": "10:00-17:00 Skill / Accessory",
+      "description": "Wall Ball Progression Phase 1:\n3 x 15 unbroken 9/6 kg.\nRest 90 sec.\nFocus: fluid motion — use hip power, not just arms. Same unbroken target as Sunday.",
+      "notes": "Week 3 Monday. Match Sunday's 3x15 unbroken format. Drive from hips, not shoulders. Note your break point if it comes before 15."
+    },
+    {
+      "title": "17:00-38:00 Strength Block",
+      "description": "RDL (Phase 1 — no conventional DL from floor):\n4x8 @ 70% 1RM DL = ~105/70 kg.\nRest 2 min.\nAccessory: 3x10 Nordic Curls — slow eccentric.",
+      "notes": "Progressing to 70% this week. Maintain perfect hinge — no spinal flexion under load. Still Phase 1: no conventional DL from floor."
+    },
+    {
+      "title": "38:00-53:00 MetCon",
+      "description": "EMOM 15:\nMin 1: 15 Cal Row\nMin 2: 15 Burpees\nMin 3: 45 sec Plank hold\nTarget: complete each station with at least 10 sec rest.",
+      "notes": "Engine building. Aerobic-heavy. RPE 7-8. Keep HR steady across all 5 rounds — don't spike on the burpees."
+    },
+    {
+      "title": "53:00-60:00 Cooldown",
+      "description": "7 min light movement or walk.\nHamstring stretch 2 min per side.",
+      "notes": ""
+    }
+  ],
+  "11": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Dead bugs\n30 sec Side plank\n10 PVC snatches — emphasize turnover\n10 PVC clean pulls.",
+      "notes": "Wednesday Oly day. Rigid core on dead bugs. Hip and shoulder prep for clean & jerk."
+    },
+    {
+      "title": "10:00-20:00 Skill / Accessory",
+      "description": "DU Progression Phase 1:\n4 x 45 sec on / 30 sec rest. Log total reps.\nSkill focus: 'micro-pause reset' drill — if you trip, immediately restart without walking away. Trains mental composure.",
+      "notes": "Week 3 DU cue: composure after a miss. Most athletes lose more time hesitating after a trip than from the trip itself."
+    },
+    {
+      "title": "20:00-40:00 Strength Block",
+      "description": "Clean & Jerk:\n5x3 @ 70% 1RM = ~57.5/38 kg.\nRest 90 sec.\nAccessory: 3x12 Weighted Ring Dips — add weight if bodyweight is easy.",
+      "notes": "Smooth transitions — receive the clean and immediately set up for the jerk, don't pause excessively. Ring dips are pushing accessory, which is fine here as it's not shoulder-intensive overhead press volume."
+    },
+    {
+      "title": "40:00-52:00 MetCon",
+      "description": "AMRAP 12:\n5 Clean & Jerks 60/40 kg\n10 Chest-to-Bar Pull-ups\nTarget: 5+ rounds.",
+      "notes": "Moderate RPE 7-8. Touch-and-go on C&J if form allows. Break C2B into 5+5 to preserve grip."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min stretching.\nForearm and wrist mobility.\nPigeon pose 90 sec each side.",
+      "notes": ""
+    }
+  ],
+  "12": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Bird dogs\n10 McGill curl-ups\n200m easy Run.",
+      "notes": "Thursday long MetCon. Core and movement prep."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "DU Progression Phase 1:\n4 x 45 sec on / 30 sec rest. Log total reps.\nSkill focus: aim for unbroken sets. If you hit 30+ in any set, that's a marker — note it.",
+      "notes": "Week 3 Thursday: push for unbroken. Note which set you go longest unbroken."
+    },
+    {
+      "title": "18:00-35:00 Strength Block",
+      "description": "Strict Press:\n4x6 @ 72% 1RM = ~47/31 kg.\nRest 90 sec.\nAccessory: 3x12 DB Rows 22.5/15 kg.",
+      "notes": "No lumbar hyperextension on press — ribs down, glutes engaged. Intensity stepping up from 65% to 72% this week."
+    },
+    {
+      "title": "35:00-52:00 MetCon",
+      "description": "AMRAP 17:\n400m Run\n21 Wall Balls 9/6 kg\n12 Pull-ups\nTarget: 4+ rounds.",
+      "notes": "Oxidative. RPE 8. Consistent pace every round — use the wall balls as a recovery movement between run and pull-ups."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min foam rolling.\nFocus: thoracic spine and quads.\nAvoid direct lumbar rolling.",
+      "notes": ""
+    }
+  ],
+  "13": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Glute bridges\n200m easy Bike.\nEasy pace throughout.",
+      "notes": "DELOAD WEEK 4. Volume drops 40%. No new 1RM attempts. Protect the body."
+    },
+    {
+      "title": "10:00-15:00 Skill / Accessory",
+      "description": "Wall Ball Progression (Deload):\n3 x 10 reps 9/6 kg.\nRest 90 sec.\nFocus on perfect form only.",
+      "notes": "Deload: volume reduced from 3x15 to 3x10. Use this to refine mechanics — quality over quantity."
+    },
+    {
+      "title": "15:00-30:00 Strength Block",
+      "description": "Back Squat (Deload):\n3x5 @ 60% 1RM = ~78/52 kg.\nFocus on bar speed — explosive concentric.\nAccessory: 2x10 GHD Hip Extension.",
+      "notes": "Lighter weight = prioritize speed and perfect positioning. No grinding."
+    },
+    {
+      "title": "30:00-40:00 MetCon",
+      "description": "AMRAP 10:\n10 Thrusters 30/20 kg\n10 Burpees\nTarget: 5+ rounds — this is light.",
+      "notes": "Light load. RPE 6-7. Move smoothly, don't compete with yourself. Deload means deload."
+    },
+    {
+      "title": "40:00-57:00 Cooldown",
+      "description": "17 min comprehensive stretching and mobility.\nFocus: back, hips, thoracic spine.\nDeep squat holds, pigeon, couch stretch.",
+      "notes": "Prioritize back and hips — give them real attention during this deload."
+    }
+  ],
+  "14": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Dead bugs\n10 Hip hinge drills\n200m easy Row.",
+      "notes": "Deload Monday. Low intensity throughout."
+    },
+    {
+      "title": "10:00-15:00 Skill / Accessory",
+      "description": "Wall Ball Progression (Deload):\n3 x 10 reps 9/6 kg.\nRest 90 sec.\nPerfect reps only — use this as a technique reset.",
+      "notes": "Deload doesn't mean sloppy. Perfect movement."
+    },
+    {
+      "title": "15:00-30:00 Strength Block",
+      "description": "RDL (Deload — Phase 1 still):\n3x6 @ 60% 1RM DL = ~90/60 kg.\nAccessory: 2x10 Nordic Curls.",
+      "notes": "Keep it light. No conventional DL — still in Phase 1 protocol."
+    },
+    {
+      "title": "30:00-45:00 MetCon",
+      "description": "4 Rounds for Time:\n400m Row\n15 Kettlebell Swings 16/12 kg\nRest 30 sec between rounds.",
+      "notes": "Paced. RPE 6-7. Conversational row pace."
+    },
+    {
+      "title": "45:00-60:00 Cooldown",
+      "description": "15 min mobility.\nHamstring floss, hip 90/90, overhead reach.",
+      "notes": ""
+    }
+  ],
+  "15": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Bird dogs\n30 sec Side plank\n10 PVC Snatch — focus on footwork.",
+      "notes": "Deload Wednesday. Core active, easy pace."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "DU Progression (Deload):\n3 x 30 sec on / 30 sec rest.\nSkill focus: intentionally slow the rope — find the minimum speed needed to clear. Builds control.",
+      "notes": "Deload DU volume. Skill cue: minimum viable speed. Athletes often spin too fast — this drill breaks the habit."
+    },
+    {
+      "title": "18:00-35:00 Strength Block",
+      "description": "Clean & Jerk (Deload):\n3x3 @ 60% 1RM = ~49.5/33 kg.\nCrisp, fast, technically perfect.\nAccessory: 2x10 Strict Toes to Bar.",
+      "notes": "Light load, perfect technique. These should feel almost easy."
+    },
+    {
+      "title": "35:00-45:00 MetCon",
+      "description": "EMOM 10:\nMin 1: 30 DUs\nMin 2: 10 Pull-ups\nRPE 6 — do not redline.",
+      "notes": "Deload MetCon. Keep it chill. If you miss DUs, singles are fine."
+    },
+    {
+      "title": "45:00-60:00 Cooldown",
+      "description": "15 min full-body stretching.\nShoulder mobility focus: band distractions, sleeper stretch.",
+      "notes": ""
+    }
+  ],
+  "16": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Glute bridges\n200m easy Run.",
+      "notes": "Deload Thursday. Light and easy."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "DU Progression (Deload):\n3 x 30 sec on / 30 sec rest.\nSkill focus: 'tall and quiet' — stand tall, keep feet together, minimize sound on landing.",
+      "notes": "Loud landing = heel striking = broken rhythm. Quiet feet = better DUs."
+    },
+    {
+      "title": "18:00-33:00 Strength Block",
+      "description": "Strict Press (Deload):\n3x6 @ 60% 1RM = ~39/26 kg.\nAccessory: 2x10 DB Rows 15/10 kg.",
+      "notes": "Light and clean. This is active recovery, not stimulus."
+    },
+    {
+      "title": "33:00-43:00 MetCon",
+      "description": "AMRAP 10:\n200m Run\n10 Box Jumps 24/20 inch\nRPE 6. Easy pace.",
+      "notes": "Deload MetCon. Step down off box — no depth jumps."
+    },
+    {
+      "title": "43:00-60:00 Cooldown",
+      "description": "17 min full recovery protocol.\nFoam roll legs and back.\nStatic stretching full body.",
+      "notes": "Use this extra time — the deload week earns it."
+    }
+  ],
+  "17": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Bird dogs\n200m Row\n10 empty bar back squats with 3 sec pause at bottom.\nBuild to 50% of working weight on final warm-up set.",
+      "notes": "PHASE 2 STARTS. Strength intensification — heavier loads, fewer reps. Warm-up must include barbell build-up sets before working sets at 78%+."
+    },
+    {
+      "title": "12:00-20:00 Skill / Accessory",
+      "description": "Wall Ball Progression Phase 2:\n3 x 20 unbroken 9/6 kg.\nRest 90 sec between sets.\nNote which set the first break occurs.",
+      "notes": "Phase 2 progression: 3x20 unbroken. If you can't hit 20 unbroken, rest at set 15 and go again. Note your break point each week — it should move later."
+    },
+    {
+      "title": "20:00-42:00 Strength Block",
+      "description": "Back Squat (Phase 2):\n5x5 @ 78% 1RM = ~101.5/68 kg.\nRest 2-3 min between sets.\nNo accessory posterior chain today — heavy squats cover it.",
+      "notes": "Heavy strength. Reduce posterior chain accessory volume this session. Brace before every descent. If rep 5 is a grind, stay at this weight next week."
+    },
+    {
+      "title": "42:00-50:00 MetCon",
+      "description": "For Time (<8 min):\n21-15-9\nFront Squat 43/30 kg\nBar-facing burpees\nTarget: sub-6 min.",
+      "notes": "Glycolytic sprint. RPE 9. Legs are heavy — embrace it. This simulates competition fatigue."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "10 min cool down walk and thoracic mobility.\nCouch stretch 2 min per side.",
+      "notes": ""
+    }
+  ],
+  "18": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Dead bugs\n30 sec Side plank\n200m easy Bike.\nHip hinge drill with dowel before strength block.",
+      "notes": "Phase 2 Monday. First session with conventional deadlift — warm-up must include deliberate hinge preparation."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "Wall Ball Progression Phase 2:\n3 x 20 unbroken 9/6 kg.\nRest 90 sec.\nFocus: push for unbroken — don't break at 15 out of habit.",
+      "notes": "Week 5. Track your break point. Aim for at least one unbroken set of 20."
+    },
+    {
+      "title": "18:00-38:00 Strength Block",
+      "description": "Conventional Deadlift (Phase 2 — introduced at RPE 6-7 max):\n4x5 @ RPE 6-7. Estimated load: ~112-120/75-80 kg.\nRest 2-3 min.\nAccessory: 3x10 Nordic Curls — slow eccentric only.",
+      "notes": "Phase 2 introduces conventional DL from the floor. RPE 6-7 is a hard ceiling — stop adding weight if form deteriorates. Stop immediately if lower back tightens. This is a reintroduction, not a max effort."
+    },
+    {
+      "title": "38:00-50:00 MetCon",
+      "description": "4 Rounds for Time:\n400m Run\n15 Toes to Bar\nTarget: sub-14 min.",
+      "notes": "RPE 8-9. Mid time domain. Core should be somewhat fatigued from DL — manage TTB sets accordingly (sets of 5-7)."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "10 min stretch.\nFocus: hamstrings and hip flexors after deadlifts.",
+      "notes": ""
+    }
+  ],
+  "19": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Glute bridges\n10 Hip hinge drills\n10 PVC Pass-throughs\n5 PVC overhead squats.",
+      "notes": "Wednesday Oly day. Phase 2 — building to heavy doubles."
+    },
+    {
+      "title": "10:00-20:00 Skill / Accessory",
+      "description": "DU Progression Phase 2:\n5 max unbroken attempts. 90 sec rest between.\nSkill focus: 'jump shape' — neutral spine, slight knee bend, no pike. Record your PR attempt.",
+      "notes": "Phase 2: track weekly PR. The jump shape cue fixes the most common breakdown at higher rep ranges."
+    },
+    {
+      "title": "20:00-40:00 Strength Block",
+      "description": "Snatch:\nBuild to heavy double.\nSuggested build: 50% x3 / 60% x2 / 70% x1 / 75% x1 / 80% x2 / attempt heavy double.\nAccessory: 3x10 Weighted Pull-ups.",
+      "notes": "Form over max weight. A heavy double that looks good beats a sloppy PR. Record the weight of your double."
+    },
+    {
+      "title": "40:00-52:00 MetCon",
+      "description": "AMRAP 12:\n10 Hang Power Snatches 43/30 kg\n30 DUs\nTarget: 4+ rounds.",
+      "notes": "RPE 8-9. Hang snatches keep back safer than from floor. DUs under fatigue — this is the Phase 2 test."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min cool down — easy row or walk.\nBand shoulder distraction.",
+      "notes": ""
+    }
+  ],
+  "20": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Bird dogs\n200m easy Run.",
+      "notes": "Thursday. Push press day — shoulder intensive. MetCon is aerobic, not shoulder-heavy, to manage weekly shoulder load."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "DU Progression Phase 2:\n5 max unbroken attempts. 90 sec rest between.\nSkill focus: relax grip — death-gripping the handles causes arm fatigue and changes rope arc.",
+      "notes": "Relax grip. Week 5 PR target: beat your Week 3 benchmark."
+    },
+    {
+      "title": "18:00-38:00 Strength Block",
+      "description": "Push Press:\n5x4 @ 80% 1RM = ~52/35 kg.\nRest 2 min.\nAccessory: 3x10 DB Rows 22.5/15 kg — horizontal pull to balance overhead press volume.",
+      "notes": "Heavy presses. Solid dip and drive — don't press early. Changed accessory from DB Bench Press to DB Rows: Monday had ring rows, Wednesday had pull-ups — adding bench press Thursday would over-accumulate shoulder load."
+    },
+    {
+      "title": "38:00-53:00 MetCon",
+      "description": "AMRAP 15:\n500m Row\n20 Box Jumps 24/20 inch\n15 DB Alternating Snatches 22.5/15 kg\nTarget: 3+ rounds.",
+      "notes": "Oxidative. RPE 8-9. Box jumps replace the shoulder-heavy movements here intentionally. Step down off box to protect ankles and achilles."
+    },
+    {
+      "title": "53:00-60:00 Cooldown",
+      "description": "7 min easy spin.\nShoulder external rotation stretch.",
+      "notes": ""
+    }
+  ],
+  "21": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 Dead bugs\n10 Glute bridges\n200m easy Ski\n10 empty bar front squats — elbows high drill.",
+      "notes": "Week 6 Sunday. Front squat day — elbows up warm-up is mandatory."
+    },
+    {
+      "title": "12:00-20:00 Skill / Accessory",
+      "description": "Wall Ball Progression Phase 2:\n3 x 20 unbroken 9/6 kg.\nRest 90 sec.\nNote which set first break occurs — compare to Week 5.",
+      "notes": "Week 6: you should see the break point moving later (e.g., if it broke at rep 14 in Week 5, aim for 17+ this week)."
+    },
+    {
+      "title": "20:00-42:00 Strength Block",
+      "description": "Front Squat:\n4x4 @ 82% 1RM = ~90/60 kg.\nRest 2-3 min.\nNo accessory posterior chain — heavy front squats are sufficient stimulus.",
+      "notes": "Heavy core bracing required. High elbows or the bar will pull you forward. Do not add GHD hip extensions today — heavy front squats plus posterior chain accessory on a Sunday means Monday can't recover."
+    },
+    {
+      "title": "42:00-49:00 MetCon",
+      "description": "For Time:\n21-15-9\nThrusters 50/35 kg\nChest-to-Bar Pull-ups\nTarget: sub-8 min.",
+      "notes": "Heavy Fran variation. RPE 9. Thruster is heavier than Fran — break earlier. Go 12-9 / 8-7 on thrusters."
+    },
+    {
+      "title": "49:00-60:00 Cooldown",
+      "description": "11 min recovery.\nCouch stretch, hip 90/90, thoracic foam roll.",
+      "notes": ""
+    }
+  ],
+  "22": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n30 sec Side plank\n200m easy Row.",
+      "notes": "Monday aerobic day. Deadlift introduced again this week at slightly higher RPE."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "Wall Ball Progression Phase 2:\n3 x 20 unbroken 9/6 kg.\nRest 90 sec.",
+      "notes": "Week 6 Monday. Continue tracking break point."
+    },
+    {
+      "title": "18:00-38:00 Strength Block",
+      "description": "Conventional Deadlift:\n4x4 @ RPE 7. Estimated load: ~120-127/80-85 kg.\nRest 2-3 min.\nAccessory: 3x10 DB Reverse Lunges — not standard lunges, reverse lunge protects knees.",
+      "notes": "Strict form. Stop if back rounds. RPE 7 is a hard cap — this is still a controlled reintroduction, not a strength test."
+    },
+    {
+      "title": "38:00-50:00 MetCon",
+      "description": "Aerobic Engine — 5 Rounds for Time:\n400m Ski Erg\n12 Burpees over DB\nTarget: consistent splits across rounds.",
+      "notes": "Engine focus. RPE 7-8. Aerobic pacing — not a sprint."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "10 min stretch.\nFocus: hamstrings and glutes post-deadlift.",
+      "notes": ""
+    }
+  ],
+  "23": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Bird dogs\n10 Hip hinge drills\n10 empty bar cleans — focus on elbow speed.",
+      "notes": "Wednesday Clean & Jerk heavy double day."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "DU Progression Phase 2:\n5 max unbroken attempts. 90 sec rest.\nSkill focus: 'look forward, not down' — chin up, eyes on a fixed point. Head position affects posture and rhythm.",
+      "notes": "Week 6 DU cue: chin up. Record PR."
+    },
+    {
+      "title": "18:00-40:00 Strength Block",
+      "description": "Clean & Jerk:\nBuild to heavy double.\nRecord the weight.\nAccessory: 3x10 Strict Toes to Bar.",
+      "notes": "Oly focus. Heavy double — heavier than Week 5. Receive clean in a solid rack, reset feet, jerk from there."
+    },
+    {
+      "title": "40:00-50:00 MetCon",
+      "description": "EMOM 10:\nMin 1: 15 Wall Balls 9/6 kg\nMin 2: 12 Pull-ups\nTarget: unbroken each minute.",
+      "notes": "RPE 8-9. Wall balls here double as DU-adjacent skill — hip extension drives both. Pull-ups after C&J — manage grip."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "10 min light movement.\nForearm and wrist mobility.",
+      "notes": ""
+    }
+  ],
+  "24": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Glute bridges\n200m easy Run.",
+      "notes": "Thursday Phase 2 press day."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "DU Progression Phase 2:\n5 max unbroken attempts. 90 sec rest.\nSkill focus: 'soft knees' — micro-bend in knees absorbs each landing and makes rhythm more sustainable.",
+      "notes": "Week 6 Thursday. Soft knees cue. Record PR."
+    },
+    {
+      "title": "18:00-35:00 Strength Block",
+      "description": "Strict Press:\n4x4 @ 82% 1RM = ~53.5/36 kg.\nRest 2 min.\nAccessory: 3x10 DB Rows 22.5/15 kg.",
+      "notes": "Intensity climbing. Ribs down, no back arch. Rows balance the pressing."
+    },
+    {
+      "title": "35:00-52:00 MetCon",
+      "description": "AMRAP 17:\n50 DUs\n25 Kettlebell Swings 24/16 kg\n15 Box Jumps 24/20 inch\nTarget: 4+ rounds.",
+      "notes": "Oxidative. RPE 8. No shoulder-intensive movements in MetCon today — press session already covered that."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min foam rolling.\nThighs, lats, and thoracic.",
+      "notes": ""
+    }
+  ],
+  "25": [
+    {
+      "title": "00:00-14:00 Warm Up",
+      "description": "3 Rounds:\n10 Bird dogs\n30 sec Side plank\n200m easy Row\n10 empty bar back squats — pause at bottom.\nBuild-up sets: 60% x3, 70% x2, 78% x1 before working sets.",
+      "notes": "Week 7 Sunday. Back squat at 85% — extended warm-up mandatory. Do not skip build-up sets."
+    },
+    {
+      "title": "14:00-22:00 Skill / Accessory",
+      "description": "Wall Ball Progression Phase 2:\n3 x 20 unbroken 9/6 kg.\nRest 90 sec.",
+      "notes": "Week 7. Break point should be improving — aim for all 3 sets unbroken."
+    },
+    {
+      "title": "22:00-42:00 Strength Block",
+      "description": "Back Squat:\n4x3 @ 85% 1RM = ~110.5/74 kg.\nRest 3 min between sets.\nNo accessory posterior chain — loading is sufficient.",
+      "notes": "Heavy sets. These should be challenging but controlled. 3 min rest is not optional — CNS needs it at this intensity."
+    },
+    {
+      "title": "42:00-49:00 MetCon",
+      "description": "For Time:\n15-12-9\nFront Squat 60/40 kg\nBurpees over bar\nTarget: sub-7 min.",
+      "notes": "Sprint. Legs are pre-fatigued. Embrace it — this trains competition resilience."
+    },
+    {
+      "title": "49:00-60:00 Cooldown",
+      "description": "11 min recovery.\nLong pigeon stretch, couch stretch, quad foam roll.",
+      "notes": ""
+    }
+  ],
+  "26": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Dead bugs\n200m easy Bike.\nHip hinge drill before DL.",
+      "notes": "Monday DL day. Warm-up emphasizes hinge preparation."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "Wall Ball Progression Phase 2:\n3 x 20 unbroken 9/6 kg.\nRest 90 sec.",
+      "notes": "Week 7 Monday."
+    },
+    {
+      "title": "18:00-38:00 Strength Block",
+      "description": "Conventional Deadlift:\n3x4 @ RPE 7.5. Estimated load: ~127-135/85-90 kg.\nRest 3 min.\nAccessory: 3x10 Nordic Curls.",
+      "notes": "RPE stepping up to 7.5. Keep safe spinal angles — if bar drifts forward or back rounds, the weight is too heavy. Stop there."
+    },
+    {
+      "title": "38:00-50:00 MetCon",
+      "description": "Aerobic Engine — AMRAP 12:\n400m Row\n15 Ring Rows or Banded Pull-ups\nTarget: 3+ rounds.",
+      "notes": "Replaced HSPU with ring rows — HSPU here accumulates too much shoulder load given Wednesday Oly and Thursday press work. Oxidative focus, RPE 7-8."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "10 min stretch.\nHamstrings, hip flexors, lats.",
+      "notes": ""
+    }
+  ],
+  "27": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Glute bridges\n10 Hip hinge drills\n10 PVC snatches — with pause at hip.",
+      "notes": "Wednesday snatch heavy double day — Week 7."
+    },
+    {
+      "title": "10:00-20:00 Skill / Accessory",
+      "description": "DU Progression Phase 2:\n5 max unbroken attempts. 90 sec rest.\nSkill focus: 'breath control' — exhale every 10 reps. Prevents the breath-hold that kills rhythm at higher rep ranges.",
+      "notes": "Week 7 DU cue: breathe. Most athletes hold their breath past 20 reps — that's why they break."
+    },
+    {
+      "title": "20:00-40:00 Strength Block",
+      "description": "Snatch:\nBuild to heavy double — heavier than Week 6.\nAccessory: 3x10 Weighted Pull-ups.",
+      "notes": "Record the weight. This should be the heaviest double so far. Form must still be sound — a slow ugly lift is not a good heavy double."
+    },
+    {
+      "title": "40:00-50:00 MetCon",
+      "description": "For Time:\n30 Snatches 43/30 kg\nEvery minute (including at 0:00): 5 Burpees\nTarget: sub-9 min.",
+      "notes": "RPE 9. High skill under fatigue. Break snatches into manageable sets after burpees. Touch-and-go if possible."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "10 min light movement.\nWrist and forearm mobility.\nShoulder CARs.",
+      "notes": ""
+    }
+  ],
+  "28": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Bird dogs\n10 McGill curl-ups\n200m easy Run.",
+      "notes": "Thursday Phase 2 final week before deload. Push press at 85%."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "DU Progression Phase 2:\n5 max unbroken attempts. 90 sec rest.\nSkill focus: week 7 PR push — aim to beat your best unbroken set from this phase.",
+      "notes": "Last hard DU session before deload. Go for a PR."
+    },
+    {
+      "title": "18:00-35:00 Strength Block",
+      "description": "Push Press:\n4x3 @ 85% 1RM = ~55/37 kg.\nRest 2 min.\nAccessory: 3x10 DB Rows 22.5/15 kg.",
+      "notes": "Heavy presses. Changed accessory from DB Bench Press to Rows — bench press Thursday accumulates too much shoulder volume in this block. Rows are safe here."
+    },
+    {
+      "title": "35:00-52:00 MetCon",
+      "description": "AMRAP 17:\n400m Run\n21 Wall Balls 9/6 kg\n15 Chest-to-Bar Pull-ups\nTarget: 4+ rounds.",
+      "notes": "Threshold pace. RPE 8-9. This is the Phase 2 final long MetCon — leave something on the field."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min stretch.\nShoulder and lat focus after pull-ups.",
+      "notes": ""
+    }
+  ],
+  "29": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Dead bugs\n200m easy Ski.",
+      "notes": "DELOAD WEEK 8. Volume drops 40%. Protect the body for Phase 3."
+    },
+    {
+      "title": "10:00-15:00 Skill / Accessory",
+      "description": "Wall Ball (Deload):\n2 x 20 unbroken — easy pace, perfect form.",
+      "notes": "Deload volume. No intensity."
+    },
+    {
+      "title": "15:00-28:00 Strength Block",
+      "description": "Back Squat (Deload):\n3x4 @ 65% 1RM = ~84.5/57 kg.\nAccessory: 2x10 GHD Hip Extension.",
+      "notes": "Light and fast. Bar speed emphasis."
+    },
+    {
+      "title": "28:00-38:00 MetCon",
+      "description": "AMRAP 10:\n10 Thrusters 30/20 kg\n10 Bar-facing burpees\nRPE 6.",
+      "notes": "Light deload MetCon. Move well, not fast."
+    },
+    {
+      "title": "38:00-60:00 Cooldown",
+      "description": "22 min deep mobility and recovery.\nFull hip series: pigeon, 90/90, couch stretch, deep squat.\nThoracic rotation and lat stretch.",
+      "notes": "Use the extra time. You've earned this recovery."
+    }
+  ],
+  "30": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Bird dogs\n30 sec Side plank\n200m easy Row.",
+      "notes": "Deload Monday."
+    },
+    {
+      "title": "10:00-15:00 Skill / Accessory",
+      "description": "Wall Ball (Deload):\n2 x 20 unbroken — controlled and perfect.",
+      "notes": ""
+    },
+    {
+      "title": "15:00-28:00 Strength Block",
+      "description": "Conventional DL (Deload):\n3x4 @ RPE 5. Very light — focus on setup and breath.\nAccessory: 2x10 DB Reverse Lunges.",
+      "notes": "Light DL. Perfect setup every rep. Think about Phase 3 form now."
+    },
+    {
+      "title": "28:00-43:00 MetCon",
+      "description": "4 Rounds for Time:\n400m easy Run\n15 Kettlebell Swings 16/12 kg\nRPE 6.",
+      "notes": "Paced. Not competitive. Deload."
+    },
+    {
+      "title": "43:00-60:00 Cooldown",
+      "description": "17 min mobility.\nHamstring floss, hip 90/90, spinal rotation.",
+      "notes": ""
+    }
+  ],
+  "31": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Glute bridges\n10 Hip hinge drills\n10 empty bar cleans.",
+      "notes": "Deload Wednesday. Light Oly work."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "DU Progression (Deload):\n3 max unbroken attempts — no pressure, just feel.\nSkill review: run through all Phase 2 cues mentally before each attempt.",
+      "notes": "Deload DU. Use this as a technique consolidation session — not a PR attempt."
+    },
+    {
+      "title": "18:00-33:00 Strength Block",
+      "description": "Clean & Jerk (Deload):\n3x2 @ 65% 1RM = ~53.5/36 kg.\nAccessory: 2x10 Strict Toes to Bar.",
+      "notes": "Light and crisp. Technical focus only."
+    },
+    {
+      "title": "33:00-43:00 MetCon",
+      "description": "EMOM 10:\nMin 1: 15 Wall Balls 9/6 kg\nMin 2: 10 Pull-ups\nRPE 6.",
+      "notes": "Deload MetCon. Easy pace."
+    },
+    {
+      "title": "43:00-60:00 Cooldown",
+      "description": "17 min stretch.\nShoulder mobility: band distractions, sleeper stretch, overhead reach.",
+      "notes": ""
+    }
+  ],
+  "32": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Bird dogs\n200m easy Bike.",
+      "notes": "Deload Thursday."
+    },
+    {
+      "title": "10:00-18:00 Skill / Accessory",
+      "description": "DU Progression (Deload):\n3 max unbroken attempts — relaxed effort.\nSkill review: identify your #1 limiting cue from Phase 2 and focus on fixing it.",
+      "notes": "Reflect on Phase 2 DU progress. What's holding you back: rhythm, breathing, jump shape, wrist tension?"
+    },
+    {
+      "title": "18:00-33:00 Strength Block",
+      "description": "Strict Press (Deload):\n3x4 @ 65% 1RM = ~42/28 kg.\nAccessory: 2x10 DB Rows 15/10 kg.",
+      "notes": "Light pressing. Active recovery."
+    },
+    {
+      "title": "33:00-43:00 MetCon",
+      "description": "AMRAP 10:\n200m easy Run\n10 Box Jumps 24/20 inch\nRPE 6.",
+      "notes": "Deload MetCon. Step down off box."
+    },
+    {
+      "title": "43:00-60:00 Cooldown",
+      "description": "17 min full-body foam roll and static stretch.\nFocus: everything — legs, back, shoulders, hips.",
+      "notes": "This is the last session before Phase 3. Arrive at Week 9 recovered and ready."
+    }
+  ],
+  "33": [
+    {
+      "title": "00:00-15:00 Warm Up",
+      "description": "3 Rounds:\n10 Dead bugs\n10 Glute bridges\n200m easy Ski or Row\n10 empty bar back squats — pause at bottom.\nBarbell build-up: 50% x5 / 65% x3 / 75% x2 / 85% x1 before working sets.",
+      "notes": "PHASE 3 STARTS. Extended warm-up is MANDATORY for 90%+ work. Do not skip build-up sets. CNS activation is required before heavy singles and doubles. 10 min warm-up is not enough at this intensity."
+    },
+    {
+      "title": "15:00-21:00 Skill / Accessory",
+      "description": "Wall Ball Phase 3:\nMax reps in 3 min — log score.\nFocus: pace yourself — don't sprint the first minute and die. Aim for even splits.",
+      "notes": "Phase 3 wall ball format: 3-min max reps. Log your score every week. Pacing strategy matters now — even 20 reps/min beats a 35-15 split."
+    },
+    {
+      "title": "21:00-42:00 Strength Block",
+      "description": "Back Squat:\n4x2 @ 90% 1RM = ~117/78 kg.\nRest 3-4 min between sets — full recovery required.\nNo accessory posterior chain today.",
+      "notes": "Heavy loading. 90% requires maximal bracing, full mental focus, and complete rest between sets. Do not rush. If rep 2 was a serious grind, stay here next week."
+    },
+    {
+      "title": "42:00-50:00 MetCon",
+      "description": "For Time (<7 min):\n15-10-5\nThrusters 60/40 kg\nBar-facing burpees\nTarget: sub-5 min.",
+      "notes": "Sprint. RPE 9.5. Legs are pre-loaded — this is competition simulation. Scale thruster weight to 50/35 kg if 60 kg is unrealistic after heavy squats."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "10 min flush and mobility.\nLight bike 5 min.\nLeg swing, couch stretch, pigeon.",
+      "notes": "After 90% squats + sprint MetCon, active recovery is critical. Don't sit down immediately."
+    }
+  ],
+  "34": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n30 sec Side plank\n200m easy Row.\nHip hinge drill with deliberate lat engagement before DL.",
+      "notes": "Phase 3 Monday. Full DL allowed — warm-up must prime the hinge pattern thoroughly."
+    },
+    {
+      "title": "12:00-18:00 Skill / Accessory",
+      "description": "Wall Ball Phase 3:\nMax reps in 3 min — log score.\nAim to beat Week 9 score.",
+      "notes": "Week 10. Compare to Session 33 score."
+    },
+    {
+      "title": "18:00-38:00 Strength Block",
+      "description": "Conventional Deadlift:\n4x2 @ 85% 1RM = ~127.5/85 kg.\nRest 3-4 min between sets.\nAccessory: 3x8 Nordic Curls.",
+      "notes": "Full DL allowed Phase 3. Brace hard — intra-abdominal pressure before every rep. No hitching. If back rounds even slightly, stop the set."
+    },
+    {
+      "title": "38:00-50:00 MetCon",
+      "description": "Aerobic Engine — AMRAP 12:\n500m Row\n15 Toes to Bar\nTarget: 3+ rounds.",
+      "notes": "Engine pace. RPE 7-8. Aerobic focus after heavy DL — no sprint today."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "10 min stretch.\nHamstrings, glutes, hip flexors.",
+      "notes": ""
+    }
+  ],
+  "35": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 Bird dogs\n10 Hip hinge drills\n10 PVC snatches — focus on footwork and catch.\n5 empty bar snatches with pause in catch position.",
+      "notes": "Wednesday Phase 3 snatch heavy single. Extended warm-up for technical prep."
+    },
+    {
+      "title": "12:00-22:00 Skill / Accessory",
+      "description": "DU Phase 3:\n3 x (30 sec max unbroken DUs + 10 burpees). 90 sec rest between.\nLog DU count each round.\nSkill focus: maintain jump shape and wrist mechanics even when breathing hard after burpees.",
+      "notes": "Phase 3 DU: composure under fatigue. The burpees spike HR — the test is whether your DU technique holds. Note how much your count drops round to round."
+    },
+    {
+      "title": "22:00-42:00 Strength Block",
+      "description": "Snatch:\nBuild to heavy single.\nSuggested build: 50% x3 / 65% x2 / 75% x1 / 82% x1 / 87% x1 / attempt new heavy single.\nAccessory: 3x8 Weighted Pull-ups.",
+      "notes": "Heavy single — beat your Phase 2 double weight if possible. Technique must be sound. No pressing out in the catch."
+    },
+    {
+      "title": "42:00-52:00 MetCon",
+      "description": "EMOM 10:\nMin 1: 10 Hang Snatches 43/30 kg\nMin 2: 15 Box Jumps 24/20 inch\nTarget: complete each minute with 10+ sec rest.",
+      "notes": "RPE 8-9. Hang snatches maintain back safety after heavy singles. Box jumps are non-shoulder, which is important — Wednesday already has heavy pull-ups."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min light movement.\nWrist, shoulder, and ankle mobility.",
+      "notes": ""
+    }
+  ],
+  "36": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Dead bugs\n200m easy Run.\n10 empty bar push presses — focus on dip position.",
+      "notes": "Thursday push press at 90%. Extended warm-up and build-up sets required."
+    },
+    {
+      "title": "12:00-20:00 Skill / Accessory",
+      "description": "DU Phase 3:\n3 x (30 sec max DUs + 10 burpees). 90 sec rest.\nLog count each round.",
+      "notes": "Week 9 Thursday. Compare round-to-round drop to Week 9 Wednesday."
+    },
+    {
+      "title": "20:00-38:00 Strength Block",
+      "description": "Push Press:\n4x2 @ 90% 1RM = ~58.5/39 kg.\nBarbell build-up: 60% x3 / 75% x2 / 85% x1 before working sets.\nRest 3 min between working sets.\nAccessory: 3x8 DB Rows 25/17 kg.",
+      "notes": "90% push press requires full build-up. Solid dip — don't rush it. No DB Bench Press here: accumulating too much shoulder stress Thursday when Wednesday already has Oly + pull-ups."
+    },
+    {
+      "title": "38:00-55:00 MetCon",
+      "description": "AMRAP 17:\n400m Run\n21 Kettlebell Swings 32/24 kg\n12 Chest-to-Bar Pull-ups\nTarget: 3+ rounds.",
+      "notes": "Comp style. RPE 9. This is a real competition simulation workout."
+    },
+    {
+      "title": "55:00-60:00 Cooldown",
+      "description": "5 min stretch.\nShoulder focus: band distraction, lat stretch.",
+      "notes": ""
+    }
+  ],
+  "37": [
+    {
+      "title": "00:00-15:00 Warm Up",
+      "description": "3 Rounds:\n10 Bird dogs\n30 sec Side plank\n200m easy Bike.\n10 empty bar front squats — elbows high drill.\nBuild-up sets: 55% x3 / 70% x2 / 80% x1 / 88% x1 before working sets.",
+      "notes": "Week 10 Sunday. Front squat at 92% — full build-up mandatory. This is near-maximal loading. Do not start working sets cold."
+    },
+    {
+      "title": "15:00-21:00 Skill / Accessory",
+      "description": "Wall Ball Phase 3:\nMax reps in 3 min — log score.\nAim to beat Week 9 score.",
+      "notes": "Week 10. Your score should be climbing week over week."
+    },
+    {
+      "title": "21:00-42:00 Strength Block",
+      "description": "Front Squat:\n4x2 @ 92% 1RM = ~101/67 kg.\nRest 3-4 min between sets.\nNo accessory posterior chain today.",
+      "notes": "Near-maximal front squat. High elbows are non-negotiable. Brace violently before every descent. 4 min rest is appropriate here."
+    },
+    {
+      "title": "42:00-49:00 MetCon",
+      "description": "For Time:\n21-15-9\nFront Squat 60/40 kg\nBurpees over bar\nTarget: sub-6 min.",
+      "notes": "Sprint. RPE 9.5. After 92% front squats this is brutal — that's the point. Scale front squat to 50/35 kg if needed to preserve the sprint stimulus."
+    },
+    {
+      "title": "49:00-60:00 Cooldown",
+      "description": "11 min active recovery.\nEasy walk, couch stretch, hip 90/90.",
+      "notes": ""
+    }
+  ],
+  "38": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Glute bridges\n200m easy Row.\nHip hinge drill before DL.",
+      "notes": "Week 10 Monday. DL at 90% — build-up sets required."
+    },
+    {
+      "title": "12:00-18:00 Skill / Accessory",
+      "description": "Wall Ball Phase 3:\nMax reps in 3 min — log score.",
+      "notes": "Week 10 Monday. Compare to Sunday score."
+    },
+    {
+      "title": "18:00-38:00 Strength Block",
+      "description": "Conventional Deadlift:\n3x2 @ 90% 1RM = ~135/90 kg.\nBuild-up: 60% x3 / 75% x2 / 85% x1 before working sets.\nRest 4 min between working sets.\nAccessory: 3x8 Nordic Curls.",
+      "notes": "90% DL — heavy but perfect form. Intra-abdominal pressure before every rep. Lats engaged. Bar stays close. Don't rush rest."
+    },
+    {
+      "title": "38:00-50:00 MetCon",
+      "description": "Aerobic Engine — 4 Rounds for Time:\n400m Ski Erg\n15 Ring Rows\nRest 20 sec between rounds.",
+      "notes": "Replaced HSPU with ring rows again — HSPU after 90% DL day when Wednesday and Thursday also have overhead pressing and pull-up volume is too much shoulder accumulation. Ring rows maintain the pulling pattern safely."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "10 min stretch.\nHamstrings, glutes, thoracic.",
+      "notes": ""
+    }
+  ],
+  "39": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 Dead bugs\n10 Hip hinge drills\n10 empty bar cleans — elbow speed drill.\n5 empty bar jerks — split position check.",
+      "notes": "Wednesday Clean & Jerk heavy single. Extended warm-up."
+    },
+    {
+      "title": "12:00-22:00 Skill / Accessory",
+      "description": "DU Phase 3:\n3 x (30 sec max DUs + 10 burpees). 90 sec rest.\nLog count each round.\nSkill focus: 'attack mode' — PR mindset on every attempt.",
+      "notes": "Week 10. Push your DU count. Phase 3 is about peak performance."
+    },
+    {
+      "title": "22:00-42:00 Strength Block",
+      "description": "Clean & Jerk:\nBuild to heavy single — heavier than Week 9.\nAccessory: 3x8 Strict Toes to Bar.",
+      "notes": "Heavy single. Record it. Receive clean in a strong rack, pause, reset, jerk from a stable position. Don't rush the jerk after the clean."
+    },
+    {
+      "title": "42:00-52:00 MetCon",
+      "description": "EMOM 10:\nMin 1: 15 Wall Balls 9/6 kg\nMin 2: 15 Pull-ups\nTarget: unbroken each minute.",
+      "notes": "RPE 8-9. Unbroken target. If pull-ups break, drop to 12 and go unbroken."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min light movement.\nForearm, wrist, and shoulder mobility.",
+      "notes": ""
+    }
+  ],
+  "40": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Bird dogs\n200m easy Run.\n10 empty bar push presses.\nBuild-up: 60% x3 / 78% x2 / 88% x1 before working sets.",
+      "notes": "Thursday press at 92%. Build-up mandatory."
+    },
+    {
+      "title": "12:00-22:00 Skill / Accessory",
+      "description": "DU Phase 3:\n3 x (30 sec max DUs + 10 burpees). 90 sec rest.\nSkill focus: beat Week 9 round counts.",
+      "notes": "Week 10 Thursday. Final big DU training push before peak week."
+    },
+    {
+      "title": "22:00-38:00 Strength Block",
+      "description": "Strict Press:\n4x2 @ 92% 1RM = ~60/40 kg.\nBuild-up sets included in warm-up.\nRest 3 min.\nAccessory: 3x8 DB Rows 25/17 kg.",
+      "notes": "Changed accessory from DB Bench Press to Rows — same rationale as throughout: bench press Thursday compounds shoulder fatigue from Wed Oly and Mon row MetCon. Rows are the safer, more balanced choice."
+    },
+    {
+      "title": "38:00-55:00 MetCon",
+      "description": "AMRAP 17:\n50 DUs\n25 DB Alternating Snatches 22.5/15 kg\n15 Box Jumps 24/20 inch\nTarget: 4+ rounds.",
+      "notes": "Comp style. RPE 9. No HSPU or pull-ups in MetCon Thursday — shoulder budget already spent on strict press."
+    },
+    {
+      "title": "55:00-60:00 Cooldown",
+      "description": "5 min stretch.\nShoulder and forearm focus.",
+      "notes": ""
+    }
+  ],
+  "41": [
+    {
+      "title": "00:00-15:00 Warm Up",
+      "description": "3 Rounds:\n10 Bird dogs\n30 sec Side plank\n200m easy Ski.\n10 empty bar back squats — explosive concentric.\nBuild-up: 55% x3 / 70% x2 / 80% x1 / 90% x1 / 93% x1 before working sets.",
+      "notes": "Week 11 Sunday. Back squat at 95%. Most important warm-up of the program. Do every build-up set. CNS must be fully primed before touching 95%."
+    },
+    {
+      "title": "15:00-21:00 Skill / Accessory",
+      "description": "Wall Ball Phase 3:\nMax reps in 3 min — log score.\nAim for a personal best.",
+      "notes": "Week 11. This should be your best 3-min score yet."
+    },
+    {
+      "title": "21:00-42:00 Strength Block",
+      "description": "Back Squat:\n3x1 @ 95% 1RM = ~123.5/82.5 kg.\nRest 4-5 min between singles — full recovery.\nNo accessory today.",
+      "notes": "Prime the CNS for retest week. 95% singles are high-intensity CNS stimulus. This is NOT a 1RM attempt — don't go heavier even if it feels good."
+    },
+    {
+      "title": "42:00-50:00 MetCon",
+      "description": "For Time:\n10-8-6-4-2\nThrusters 60/40 kg\nBar-facing burpees\nTarget: sub-5 min.",
+      "notes": "Sprint. RPE 9.5. Descending ladder = sustainable pace up front."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "10 min active recovery.\nLight bike 5 min.\nFull leg stretch routine.",
+      "notes": ""
+    }
+  ],
+  "42": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Dead bugs\n200m easy Row.\nHip hinge drill — deliberate lat engagement.",
+      "notes": "Week 11 Monday. DL at 95% — build-up sets are critical."
+    },
+    {
+      "title": "12:00-18:00 Skill / Accessory",
+      "description": "Wall Ball Phase 3:\nMax reps in 3 min — log score.",
+      "notes": "Week 11 Monday score."
+    },
+    {
+      "title": "18:00-38:00 Strength Block",
+      "description": "Conventional Deadlift:\n3x1 @ 95% 1RM = ~142.5/95 kg.\nBuild-up: 60% x3 / 75% x2 / 85% x1 / 90% x1 before working sets.\nRest 4-5 min between singles.\nAccessory: 3x8 Nordic Curls.",
+      "notes": "Heavy single. Perfect setup every time. Do not attempt a 1RM — 95% is the target. Stop there."
+    },
+    {
+      "title": "38:00-50:00 MetCon",
+      "description": "Aerobic Engine — AMRAP 12:\n400m Row\n15 Burpees\nRPE 7. Consistent pace.",
+      "notes": "Aerobic focus after heavy DL. Not a sprint. Keep HR manageable."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "10 min stretch.\nHamstrings, hip flexors, glutes.",
+      "notes": ""
+    }
+  ],
+  "43": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 Glute bridges\n10 Hip hinge drills\n10 PVC snatches — fast turnover.\n5 empty bar snatches — focus on catch depth.",
+      "notes": "Wednesday snatch heavy single — Week 11."
+    },
+    {
+      "title": "12:00-22:00 Skill / Accessory",
+      "description": "DU Phase 3:\n3 x (30 sec max DUs + 10 burpees). 90 sec rest.\nLog count. Aim for Phase 3 PR.",
+      "notes": "Week 11. Phase 3 DU PR push."
+    },
+    {
+      "title": "22:00-42:00 Strength Block",
+      "description": "Snatch:\nBuild to heavy single — aim for Phase 3 best.\nAccessory: 3x8 Weighted Pull-ups.",
+      "notes": "Record it. Compare to Phase 2 best double. A heavy single here should exceed your Phase 2 double weight."
+    },
+    {
+      "title": "42:00-52:00 MetCon",
+      "description": "For Time:\n30 Power Snatches 43/30 kg\nEvery minute (including 0:00): 5 Burpees\nTarget: sub-9 min.",
+      "notes": "RPE 9. Same as Week 9 — aim to beat that time."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min light movement.\nWrist, shoulder, ankle mobility.",
+      "notes": ""
+    }
+  ],
+  "44": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 Bird dogs\n10 McGill curl-ups\n200m easy Run.\n10 empty bar push presses.\nBuild-up: 60% x3 / 75% x2 / 85% x1 / 91% x1 before working sets.",
+      "notes": "Thursday press at 95% — build-up mandatory."
+    },
+    {
+      "title": "12:00-22:00 Skill / Accessory",
+      "description": "DU Phase 3:\n3 x (30 sec max DUs + 10 burpees). 90 sec rest.\nFinal hard DU session before retest.",
+      "notes": "Week 11 Thursday. Final DU training before Week 12 retest."
+    },
+    {
+      "title": "22:00-38:00 Strength Block",
+      "description": "Push Press:\n3x1 @ 95% 1RM = ~61.75/41 kg.\nBuild-up sets in warm-up.\nRest 3-4 min.\nAccessory: 3x8 DB Rows 25/17 kg.",
+      "notes": "Near-max push press. Solid dip — patient on the dip, explosive on the drive. Rows balance the overhead work."
+    },
+    {
+      "title": "38:00-55:00 MetCon",
+      "description": "AMRAP 17:\n400m Run\n21 Kettlebell Swings 32/24 kg\n15 Chest-to-Bar Pull-ups\nTarget: 3+ rounds — aim to beat Week 9.",
+      "notes": "Comp style. RPE 9. Final big long MetCon of the program."
+    },
+    {
+      "title": "55:00-60:00 Cooldown",
+      "description": "5 min stretch.\nShoulder and lat priority.",
+      "notes": ""
+    }
+  ],
+  "45": [
+    {
+      "title": "00:00-15:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Bird dogs\n200m easy Bike.\n10 empty bar back squats — explosive concentric.\nFull build-up: 50% x5 / 65% x3 / 75% x2 / 83% x1 / 90% x1 before 3RM attempts.",
+      "notes": "RETEST WEEK starts. Session 1 retest: 3RM Back Squat. Full build-up sequence is mandatory — you're chasing a 12-week PR."
+    },
+    {
+      "title": "15:00-20:00 Skill / Accessory",
+      "description": "Wall Ball Retest Prep:\n2 x 10 reps — light warm-up only.\nSave energy for the squat.",
+      "notes": "Don't waste energy on wall balls today. Just prime the movement."
+    },
+    {
+      "title": "20:00-45:00 Strength Block",
+      "description": "RETEST: Heavy 3RM Back Squat.\nBuild to new heavy 3RM — beat Week 1 score.\nGive yourself 2-3 attempts at top weight.",
+      "notes": "This is the payoff. Compare directly to Week 1 score. A 5-10 kg PR on the 3RM is a realistic and excellent outcome after this program."
+    },
+    {
+      "title": "45:00-52:00 MetCon",
+      "description": "Movement Primer:\n3x3 Thrusters @ 30/20 kg\n3x3 Bar-facing burpees\nVery light, technical only.",
+      "notes": "Just prime the pump for Thursday's Fran retest. No fatigue here."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min full recovery stretching.\nLeg focus: quad, hamstring, hip flexor.",
+      "notes": "Retest week — protect your body between sessions."
+    }
+  ],
+  "46": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Dead bugs\n30 sec Side plank\n200m easy Row.\n5 empty bar thrusters — prime the pattern.",
+      "notes": "Monday retest day: Fran. Light warm-up only — save CNS for the benchmark."
+    },
+    {
+      "title": "10:00-15:00 Skill / Accessory",
+      "description": "Wall Ball Retest Prep:\n2 x 10 reps — easy.\nMax Unbroken Wall Ball warm-up: 1 set of 15 at moderate pace.",
+      "notes": "Prime the wall ball movement but don't fatigue. Save for Thursday retest."
+    },
+    {
+      "title": "15:00-30:00 Strength Block",
+      "description": "Light RDL:\n3x8 @ 50% DL 1RM = ~75/50 kg.\nAccessory: 2x10 Nordic Curls.",
+      "notes": "Conservative strength work — save CNS for Fran. Don't get greedy here."
+    },
+    {
+      "title": "30:00-45:00 MetCon",
+      "description": "RETEST: Fran\n21-15-9\nThrusters 43/30 kg\nPull-ups\nAll out. Record your time. Compare to Week 1.",
+      "notes": "RPE 10. This is the benchmark. You should be significantly fitter than Week 1. Aim to be 20-40 sec faster. Go unbroken on thrusters through the 21 if possible."
+    },
+    {
+      "title": "45:00-60:00 Cooldown",
+      "description": "15 min full recovery.\n5 min walk, 10 min stretching.\nLats, hip flexors, forearms.",
+      "notes": ""
+    }
+  ],
+  "47": [
+    {
+      "title": "00:00-10:00 Warm Up",
+      "description": "3 Rounds:\n10 Glute bridges\n10 Hip hinge drills\n200m easy Run.\n5 empty bar cleans — elbow speed.",
+      "notes": "Wednesday retest: Max DUs + 1RM Clean & Jerk. Loaded day — prioritize technical readiness."
+    },
+    {
+      "title": "10:00-22:00 Skill / Accessory",
+      "description": "RETEST: Max Unbroken Double Unders.\n3 attempts with 90 sec rest between.\nBest of 3 is your score. Compare to Week 1 (Ref: 30 unbroken).\nSkill review: run all your Phase cues before each attempt.",
+      "notes": "Apply everything learned across 12 weeks. Relax, breathe, use the jump shape, maintain rhythm. A 50%+ improvement (45+ unbroken) is a realistic target."
+    },
+    {
+      "title": "22:00-45:00 Strength Block",
+      "description": "RETEST: 1RM Clean & Jerk.\nBuild to new 1RM in ~20 mins (Ref: 82.5 kg).\nSuggested build: 55 kg x2 / 65 kg x2 / 75 kg x1 / 80 kg x1 / 85 kg x1 / attempt new 1RM.",
+      "notes": "Perfect technique. A 5-7 kg PR is realistic. Don't rush between attempts — give yourself 3-4 min at heavy weights."
+    },
+    {
+      "title": "45:00-52:00 MetCon",
+      "description": "Active Recovery:\n5 min easy row or bike.\nNo conditioning today.",
+      "notes": "Protect CNS and joints for Thursday's final retests."
+    },
+    {
+      "title": "52:00-60:00 Cooldown",
+      "description": "8 min full stretching.\nShoulder, hip, and back focus.",
+      "notes": ""
+    }
+  ],
+  "48": [
+    {
+      "title": "00:00-12:00 Warm Up",
+      "description": "3 Rounds:\n10 McGill curl-ups\n10 Bird dogs\n200m easy Ski.\n10 empty bar push presses — overhead lockout drill.",
+      "notes": "Final session. Retest Max Wall Balls + Strict Press 1RM. Celebration MetCon to finish."
+    },
+    {
+      "title": "12:00-22:00 Skill / Accessory",
+      "description": "RETEST: Max Unbroken Wall Balls 9/6 kg.\n1 attempt — all out.\nCompare to Week 1 (Ref: 20 unbroken).\nWarm up with 10 quality reps before the test set.",
+      "notes": "Apply Phase 1-3 cues: full hip extension, elbows high, consistent depth, breathe every rep. A target of 35-45+ unbroken is realistic after this program."
+    },
+    {
+      "title": "22:00-37:00 Strength Block",
+      "description": "RETEST: Strict Press 1RM.\nBuild to new 1RM (Ref: 65 kg).\nSuggested build: 40 kg x3 / 50 kg x2 / 57.5 kg x1 / 62.5 kg x1 / 67.5 kg x1 / attempt.",
+      "notes": "Record it. A 3-5 kg PR here reflects 12 weeks of consistent pressing and accessory work."
+    },
+    {
+      "title": "37:00-50:00 MetCon",
+      "description": "Celebration MetCon:\nAMRAP 10:\n10 Power Cleans 60/40 kg\n10 Bar-facing burpees\nGive it everything.",
+      "notes": "End of program. Leave it all on the floor. No pacing strategy — just go."
+    },
+    {
+      "title": "50:00-60:00 Cooldown",
+      "description": "10 min foam rolling — full body.\nReflect on Week 1 benchmarks vs today.\nProgram complete.",
+      "notes": "Compare all 4 benchmarks: 3RM Back Squat, Fran, Max DUs, 1RM C&J + Max Wall Balls. Document your results."
+    }
+  ]
+}
